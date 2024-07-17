@@ -35,7 +35,7 @@
 
 ### Completed Days
 
-1. Day 1: [JavaScript](https://github.com/parvej-khan-dev/30-days-javascript-challange/blob/main/day_1_data_type_variable.js)
+1. Day 1: [JavaScript](https://github.com/parvej-khan-dev/30-days-javascript-challange/blob/main/day1_data_type_variable.js)
 2. Day 2: [JavaScript](https://github.com/parvej-khan-dev/30-days-javascript-challange/blob/main/day2_operators.js)
 3. Day 3: [JavaScript](https://github.com/parvej-khan-dev/30-days-javascript-challange/blob/main/day3_control_structures.js)
 4. Day 4: [JavaScript](https://github.com/parvej-khan-dev/30-days-javascript-challange/blob/main/day4_loops.js)
