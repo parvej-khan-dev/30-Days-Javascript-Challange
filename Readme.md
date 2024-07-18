@@ -7,7 +7,7 @@
 - [x] Day 3: [Control Structure](https://github.com/parvej-khan-dev/30-days-javascript-challange/blob/main/day3_control_structures.js)
 - [x] Day 4: [Loops](https://github.com/parvej-khan-dev/30-days-javascript-challange/blob/main/day4_loops.js)
 - [x] Day 5: [Functions](https://github.com/parvej-khan-dev/30-days-javascript-challange/blob/main/day5_functions.js)
-- [ ] Day 6:
+- [x] Day 6: [Array](https://github.com/parvej-khan-dev/30-days-javascript-challange/blob/main/day6_array.js)
 - [ ] Day 7:
 - [ ] Day 8:
 - [ ] Day 9:
@@ -40,6 +40,7 @@
 3. Day 3: [JavaScript](https://github.com/parvej-khan-dev/30-days-javascript-challange/blob/main/day3_control_structures.js)
 4. Day 4: [JavaScript](https://github.com/parvej-khan-dev/30-days-javascript-challange/blob/main/day4_loops.js)
 5. Day 5: [JavaScript](https://github.com/parvej-khan-dev/30-days-javascript-challange/blob/main/day5_functions.js)
+6. Day 6: [Javascript](https://github.com/parvej-khan-dev/30-days-javascript-challange/blob/main/day6_array.js)
 
 ### Overview
 
