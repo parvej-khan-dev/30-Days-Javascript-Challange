@@ -2,8 +2,8 @@
 
 //TODO Task 1 :  Create an object representing a book with properties like title, author, and year, and log the object to the console.
 const book = {
-  title: "Rich Dad, Poor Dad",
-  author: "Robert Kiyosaki",
+  title: 'Rich Dad, Poor Dad',
+  author: 'Robert Kiyosaki',
   year: 1997,
 };
 
@@ -36,20 +36,20 @@ console.log(book);
 //TODO: 5 :  Create a nested object representing a library with properties like name and books (an array of book objects), and log the library object to the console.
 
 const library = {
-  name: "Iqra Libray",
+  name: 'Iqra Libray',
   books: [
-    { id: 1, title: "Rich Dad Poor Dad", author: "Robert k", year: 1997 },
-    { id: 2, title: "Think and grow", author: "PeterT", year: 2022 },
-    { id: 3, title: "Epic shit", author: "Ankur wariko", year: 2022 },
+    { id: 1, title: 'Rich Dad Poor Dad', author: 'Robert k', year: 1997 },
+    { id: 2, title: 'Think and grow', author: 'PeterT', year: 2022 },
+    { id: 3, title: 'Epic shit', author: 'Ankur wariko', year: 2022 },
   ],
 };
 
-console.log(library, "Library Name");
+console.log(library, 'Library Name');
 //TODO: 6-  Access and log the name of the library and the titles of all the books in the library.
 console.log(library.name);
 
 for (let book of library.books) {
-  console.log(book.title, "Book Title");
+  console.log(book.title, 'Book Title');
 }
 
 /// *** Activity this keyword */
@@ -65,7 +65,7 @@ library.updateTitle = function (bookId, title) {
   this.books = updateBooks;
 };
 
-library.updateTitle(1, "My Dad Rich");
+library.updateTitle(1, 'My Dad Rich');
 console.log(library);
 
 /**
@@ -91,3 +91,5 @@ console.log({
   entries: ObjectEntries,
   assign: objectAssign,
 });
+
+console.log('End day 7');
