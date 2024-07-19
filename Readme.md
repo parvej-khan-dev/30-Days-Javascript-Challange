@@ -8,7 +8,7 @@
 - [x] Day 4: [Loops](https://github.com/parvej-khan-dev/30-days-javascript-challange/blob/main/day4_loops.js)
 - [x] Day 5: [Functions](https://github.com/parvej-khan-dev/30-days-javascript-challange/blob/main/day5_functions.js)
 - [x] Day 6: [Array](https://github.com/parvej-khan-dev/30-days-javascript-challange/blob/main/day6_array.js)
-- [ ] Day 7:
+- [x] Day 7: [Object](https://github.com/parvej-khan-dev/30-days-javascript-challange/blob/main/day7_object.js)
 - [ ] Day 8:
 - [ ] Day 9:
 - [ ] Day 10:
@@ -41,6 +41,7 @@
 4. Day 4: [JavaScript](https://github.com/parvej-khan-dev/30-days-javascript-challange/blob/main/day4_loops.js)
 5. Day 5: [JavaScript](https://github.com/parvej-khan-dev/30-days-javascript-challange/blob/main/day5_functions.js)
 6. Day 6: [Javascript](https://github.com/parvej-khan-dev/30-days-javascript-challange/blob/main/day6_array.js)
+7. Day 7: [Javascript](https://github.com/parvej-khan-dev/30-days-javascript-challange/blob/main/day7_object.js)
 
 ### Overview
 
@@ -50,7 +51,7 @@ Join me in this 30-day challenge where I will be solving problems and learning J
 
 1. **Fork this repository** to your GitHub account.
 2. **Clone the forked repository** to your local machine.
-3. Navigate to the day you are working on and open the JavaScript  file.
+3. Navigate to the day you are working on and open the JavaScript file.
 
 ### Contributing
 
