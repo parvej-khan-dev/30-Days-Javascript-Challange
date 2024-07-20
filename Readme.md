@@ -9,7 +9,7 @@
 - [x] Day 5: [Functions](https://github.com/parvej-khan-dev/30-days-javascript-challange/blob/main/day5_functions.js)
 - [x] Day 6: [Array](https://github.com/parvej-khan-dev/30-days-javascript-challange/blob/main/day6_array.js)
 - [x] Day 7: [Object](https://github.com/parvej-khan-dev/30-days-javascript-challange/blob/main/day7_object.js)
-- [ ] Day 8:
+- [x] Day 8: [ES6+Feature](https://github.com/parvej-khan-dev/30-days-javascript-challange/blob/main/day8_es6.js)
 - [ ] Day 9:
 - [ ] Day 10:
 - [ ] Day 11:
@@ -42,6 +42,7 @@
 5. Day 5: [JavaScript](https://github.com/parvej-khan-dev/30-days-javascript-challange/blob/main/day5_functions.js)
 6. Day 6: [Javascript](https://github.com/parvej-khan-dev/30-days-javascript-challange/blob/main/day6_array.js)
 7. Day 7: [Javascript](https://github.com/parvej-khan-dev/30-days-javascript-challange/blob/main/day7_object.js)
+7. Day 8: [Javascript](https://github.com/parvej-khan-dev/30-days-javascript-challange/blob/main/day8_es6.js)
 
 ### Overview
 
