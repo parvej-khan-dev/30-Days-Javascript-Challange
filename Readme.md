@@ -10,7 +10,7 @@
 - [x] Day 6: [Array](https://github.com/parvej-khan-dev/30-days-javascript-challange/blob/main/day6_array.js)
 - [x] Day 7: [Object](https://github.com/parvej-khan-dev/30-days-javascript-challange/blob/main/day7_object.js)
 - [x] Day 8: [ES6+Feature](https://github.com/parvej-khan-dev/30-days-javascript-challange/blob/main/day8_es6.js)
-- [x] Day 9: [Dom_Manipulation](https://github.com/parvej-khan-dev/30-days-javascript-challange/blob/main/day9_domManipulation)
+- [x] Day 9: [Dom Manipulation](https://github.com/parvej-khan-dev/30-days-javascript-challange/blob/main/day9_domManipulation)
 - [ ] Day 10:
 - [ ] Day 11:
 - [ ] Day 12:
