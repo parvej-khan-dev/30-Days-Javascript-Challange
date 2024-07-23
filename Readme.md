@@ -12,7 +12,7 @@
 - [x] Day 8: [ES6+Feature](https://github.com/parvej-khan-dev/30-days-javascript-challange/blob/main/day8_es6.js)
 - [x] Day 9: [Dom Manipulation](https://github.com/parvej-khan-dev/30-days-javascript-challange/blob/main/day9_domManipulation)
 - [x] Day 10: [Event Handling](https://github.com/parvej-khan-dev/30-days-javascript-challange/blob/main/day10_event_handling)
-- [ ] Day 11:
+- [x] Day 11: [Promise Async Await](https://github.com/parvej-khan-dev/30-days-javascript-challange/blob/main/day11_promise.js)
 - [ ] Day 12:
 - [ ] Day 13:
 - [ ] Day 14:
@@ -45,6 +45,7 @@
 8. Day 8: [Javascript](https://github.com/parvej-khan-dev/30-days-javascript-challange/blob/main/day8_es6.js)
 9. Day 9: [Javascript](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/day9_domManipulation)
 10. Day 10: [Javascript](https://github.com/parvej-khan-dev/30-days-javascript-challange/blob/main/day10_event_handling)
+11. Day 11: [Javascript](https://github.com/parvej-khan-dev/30-days-javascript-challange/blob/main/day11_promise.js)
 
 ### Overview
 

@@ -118,8 +118,8 @@ fetchAll();
 
 //Task9 : use promise.race to log the value of the first promise that resolves among multiple promises.
 
-const api1 = 'https://jsonplaceholder.typicode.com/posts/1'; 
-const api2 = 'https://jsonplaceholder.typicode.com/posts/2'; 
+const api1 = 'https://jsonplaceholder.typicode.com/posts/1';
+const api2 = 'https://jsonplaceholder.typicode.com/posts/2';
 
 const fetchAllRace = async () => {
   try {
@@ -132,3 +132,5 @@ const fetchAllRace = async () => {
     console.log(error, 'error');
   }
 };
+
+fetchAllRace();
