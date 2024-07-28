@@ -112,3 +112,57 @@ console.log(user.add('Parvej'), 'user list');
 console.log(user.getList(), 'user list');
 console.log(user.isUserExist('Parvej'));
 console.log(user.remove('Parvej'));
+
+//Activity 5 Memoization
+
+//Task 7:
+
+function memoize(fn) {
+  let cache = new Map();
+  return function (...args) {
+    const key = JSON.stringify(args);
+    if (cache.has(key)) {
+      return cache.get(key);
+    } else {
+      const result = fn(...args);
+      cache.set(key, result);
+      return result;
+    }
+  };
+}
+
+function add1(a, b) {
+  return a + b;
+}
+
+const memoizedAdd = memoize(add1);
+console.log(memoizedAdd(2, 3)); // else block run
+console.log(memoizedAdd(2, 3)); // if block run
+
+//Task 8: Create a memoized version of a function that calculates the factorial of a number.
+
+function memoize2(fn) {
+  let cache = new Map();
+  return function (...args) {
+    const key = JSON.stringify(args);
+    if (cache.has(key)) {
+      return cache.get(key);
+    } else {
+      const result = fn(...args);
+      cache.set(key, result);
+      return result;
+    }
+  };
+}
+
+function factorial(n) {
+  let ans = 1;
+
+  if (n === 0) return 1;
+  for (let i = 2; i <= n; i++) ans = ans * i;
+  return ans;
+}
+
+const memoizedFactorial = memoize2(factorial);
+console.log(memoizedFactorial(5)); // else block run
+console.log(memoizedFactorial(5)); // if block run
