@@ -73,3 +73,63 @@ function reverse(arr) {
 }
 
 console.log(reverse(arr));
+
+// Activity 3: String Manipulation with Recursion
+
+//Task 5:
+
+function stringReverse(str) {
+  if (str.length <= 1) {
+    return str;
+  }
+  let [first, ...rest] = str;
+
+  return stringReverse(rest) + first;
+}
+
+console.log(stringReverse('Parvejkhan'));
+console.log(stringReverse('madam'));
+console.log(stringReverse('Javascript'));
+
+function palindrome(str) {
+  if (str.length <= 1) {
+    return true;
+  }
+  let [first, ...rest] = str;
+
+  return first === rest.slice(-1)[0] && palindrome(rest.slice(0, -1));
+}
+
+console.log(palindrome('madam'));
+
+//Activity 4: Recursion with Objects
+
+//Task 7 :
+
+function recursiveBinarySearch(arr, target, low = 0, high = arr.length) {
+  console.log(low, high, target);
+  const mid = Math.floor((low + high) / 2);
+  if (arr[mid] === target) {
+    return mid;
+  }
+  if (arr[mid] > target) {
+    return recursiveBinarySearch(arr, target, low, mid - 1);
+  }
+  return recursiveBinarySearch(arr, target, mid + 1, high);
+}
+
+console.log(recursiveBinarySearch([1, 2, 3, 4, 5, 6, 7, 8, 9], 6));
+
+//task 8 :
+
+function occrunace(arr, target, index = 0) {
+  if (index === arr.length) {
+    return 0;
+  }
+  if (arr[index] === target) {
+    return 1 + occrunace(arr, target, index + 1);
+  }
+  return occrunace(arr, target, index + 1);
+}
+
+console.log(occrunace([1, 2, 1, 6, 7, 6, 7, 8, 9], 6));
