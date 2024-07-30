@@ -17,7 +17,7 @@
 - [x] Day 13: [Modules](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/13.%20modules)
 - [x] Day 14: [Classes](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/14.%20classes)
 - [x] Day 15: [Closures](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/15.closures)
-- [ ] Day 16:
+- [x] Day 16: [Recursion](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/16.Recursion)
 - [ ] Day 17:
 - [ ] Day 18:
 - [ ] Day 19:
@@ -50,6 +50,7 @@
 13. Day 13: [Javascript](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/13.%20modules)
 14. Day 14: [Javascript](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/14.%20classes)
 15. Day 15: [Javascript](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/15.closures)
+16. Day 16: [Javascript](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/16.Recursion)
 
 ### Overview
 
