@@ -18,7 +18,7 @@
 - [x] Day 14: [Classes](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/14.%20classes)
 - [x] Day 15: [Closures](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/15.closures)
 - [x] Day 16: [Recursion](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/16.Recursion)
-- [ ] Day 17:
+- [x] Day 17: [Data Structures](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/17.Data%20Structures)
 - [ ] Day 18:
 - [ ] Day 19:
 - [ ] Day 20:
@@ -51,6 +51,7 @@
 14. Day 14: [Javascript](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/14.%20classes)
 15. Day 15: [Javascript](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/15.closures)
 16. Day 16: [Javascript](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/16.Recursion)
+17. Day 17: [Javascript](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/17.Data%20Structures)
 
 ### Overview
 
