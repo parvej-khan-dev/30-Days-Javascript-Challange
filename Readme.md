@@ -20,7 +20,7 @@
 - [x] Day 16: [Recursion](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/16.Recursion)
 - [x] Day 17: [Data Structures](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/17.Data%20Structures)
 - [x] Day 18: [Algorithms](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/18.Algorithms)
-- [ ] Day 19:
+- [x] Day 19: [Regex](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/19.Regex)
 - [ ] Day 20:
 - [ ] Day 21:
 - [ ] Day 22:
@@ -53,6 +53,7 @@
 16. Day 16: [Javascript](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/16.Recursion)
 17. Day 17: [Javascript](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/17.Data%20Structures)
 18. Day 18: [Javascript](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/18.Algorithms)
+19. Day 19: [Javascript](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/19.Regex)
 
 ### Overview
 
