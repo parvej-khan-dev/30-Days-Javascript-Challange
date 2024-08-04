@@ -21,7 +21,7 @@
 - [x] Day 17: [Data Structures](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/17.Data%20Structures)
 - [x] Day 18: [Algorithms](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/18.Algorithms)
 - [x] Day 19: [Regex](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/19.Regex)
-- [x] Day 20: [Browser Storage](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/20.Browser%20Storage)
+- [x] Day 20: [Browser Storage](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/20.Local%20Storage%20%26%20Session%20Storage)
 - [ ] Day 21:
 - [ ] Day 22:
 - [ ] Day 23:
@@ -54,7 +54,7 @@
 17. Day 17: [Javascript](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/17.Data%20Structures)
 18. Day 18: [Javascript](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/18.Algorithms)
 19. Day 19: [Javascript](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/19.Regex)
-20. Day 20: [Javascript](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/)
+20. Day 20: [Javascript](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/20.Local%20Storage%20%26%20Session%20Storage)
 
 ### Overview
 
