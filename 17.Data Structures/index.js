@@ -15,7 +15,7 @@ secondtNode.next = thirdNode;
 
 console.log(firstNode);
 
-class LinkedList {
+export class LinkedList {
   constructor() {
     this.head = null;
     this.size = 0;

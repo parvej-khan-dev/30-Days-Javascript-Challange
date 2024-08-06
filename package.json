@@ -1,0 +1,13 @@
+{
+  "name": "30-days-javascript-challange",
+  "version": "1.0.0",
+  "description": "### Progress",
+  "main": "day11_promise.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
