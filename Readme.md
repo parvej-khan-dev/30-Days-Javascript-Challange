@@ -22,7 +22,7 @@
 - [x] Day 18: [Algorithms](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/18.Algorithms)
 - [x] Day 19: [Regex](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/19.Regex)
 - [x] Day 20: [Browser Storage](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/20.Local%20Storage%20%26%20Session%20Storage)
-- [ ] Day 21:
+- [x] Day 21: [Leetcode Easy](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/21.Leetcode%20Easy)
 - [ ] Day 22:
 - [ ] Day 23:
 - [ ] Day 24:
@@ -55,6 +55,7 @@
 18. Day 18: [Javascript](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/18.Algorithms)
 19. Day 19: [Javascript](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/19.Regex)
 20. Day 20: [Javascript](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/20.Local%20Storage%20%26%20Session%20Storage)
+21. Day 20: [Javascript](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/21.Leetcode%20Easy)
 
 ### Overview
 

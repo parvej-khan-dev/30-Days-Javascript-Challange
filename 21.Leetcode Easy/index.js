@@ -80,6 +80,7 @@ function valid(str) {
     '[': ']',
   };
 
+  
   let stack = [];
   for (let char of str) {
     if (char in bracketsMap) {
