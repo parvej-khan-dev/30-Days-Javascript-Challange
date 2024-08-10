@@ -63,9 +63,10 @@ async function displayMovies() {
   }
 }
 
-document
-  .getElementById('search-button')
-  .addEventListener('click', displayMovies);
+const searchBar = document.getElementById('search-button');
+if (searchBar) {
+  searchBar.addEventListener('click', displayMovies);
+}
 
 document
   .getElementById('search-input')
