@@ -68,14 +68,14 @@ if (searchBar) {
   searchBar.addEventListener('click', displayMovies);
 }
 
-document
-  .getElementById('search-input')
-  .addEventListener('keypress', function (event) {
+if (searchBar) {
+  searchBar.addEventListener('keypress', function (event) {
     // Check if the pressed key is Enter
     if (event.key === 'Enter') {
       displayMovies();
     }
   });
+}
 
 let searchParams = new URLSearchParams(window.location.search);
 console.log('searchParams', searchParams);
