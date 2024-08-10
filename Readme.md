@@ -25,8 +25,8 @@
 - [x] Day 21: [Leetcode Easy](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/21.Leetcode%20Easy)
 - [ ] Day 22:
 - [ ] Day 23:
-- [ ] Day 24:
-- [ ] Day 25:
+- [x] Day 24: [Weather App](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/24.Weather%20App)
+- [x] Day 25: [Movie Search App](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/25.%20Movie%20Search%20App)
 - [ ] Day 26:
 - [ ] Day 27:
 - [ ] Day 28:
@@ -55,7 +55,11 @@
 18. Day 18: [Javascript](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/18.Algorithms)
 19. Day 19: [Javascript](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/19.Regex)
 20. Day 20: [Javascript](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/20.Local%20Storage%20%26%20Session%20Storage)
-21. Day 20: [Javascript](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/21.Leetcode%20Easy)
+21. Day 21: [Javascript](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/21.Leetcode%20Easy)
+22. Day 22 : [Javascript]()
+23. Day 23 : [Javascript]()
+24. Day 24: [Javascript](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/24.Weather%20App)
+25. Day 25: [Javascript](https://github.com/parvej-khan-dev/30-days-javascript-challange/tree/main/25.%20Movie%20Search%20App)
 
 ### Overview
 
